@@ -1,0 +1,12 @@
+.Active{
+    background-color:lightgreen;
+    color: black;
+    font-weight: bolder;
+}
+
+.Inactive{
+ background-color: rgb(252, 138, 138);
+ color: black;
+ font-weight: bolder;
+}
+

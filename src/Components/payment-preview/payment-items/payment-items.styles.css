@@ -1,0 +1,17 @@
+.thisMonth {
+  background-color: lightgreen;
+  color: black;
+  font-weight: bolder;
+}
+
+.today {
+  background-color: yellow;
+  color: black;
+  font-weight: bolder;
+}
+
+.issue {
+  background-color: orange;
+  color: black;
+  font-weight: bolder;
+}

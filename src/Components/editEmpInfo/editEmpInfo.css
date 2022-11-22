@@ -1,0 +1,26 @@
+
+.heading{
+    font-size: 25px;
+}
+
+.content{
+    font-weight: 300;
+    color: rgb(214, 41, 41);
+    width: 100%;
+}
+
+.Image{
+    width: 47%;
+    height: 295px;
+    margin-right: 20px;
+}
+
+.InfoContainer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.details{
+    font-weight: lighter;
+    width: 100%;
+}
